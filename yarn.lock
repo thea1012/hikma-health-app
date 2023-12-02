@@ -5201,10 +5201,10 @@ react-is@^16.13.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4, react-i
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-camera-hooks@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/react-native-camera-hooks/-/react-native-camera-hooks-0.3.1.tgz#9198f7fb38f4edfb4f0db6c79d9e7d6e3866e3c7"
-  integrity sha512-mj1t4E6Lg9KDApUrN1N748I1Na5JB5tGGK7UVqNN4edvouPepBssI6b7JILr3lPMYIGTUOvJl80l+m3XH4YDFA==
+react-native-camera-hooks@^0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/react-native-camera-hooks/-/react-native-camera-hooks-0.5.3.tgz#0a8306564c9804cac09ae959e36e0265cb7731e1"
+  integrity sha512-MIrZgJvJ7+UKiYzbbuKr0JHh8UsvMJ6hYekpZOcsHV5oMHgyW1AxHbCLDymkNTCaI/04rBX/XH9fsLVW0zZFkg==
 
 react-native-camera@^3.21.0:
   version "3.44.3"
